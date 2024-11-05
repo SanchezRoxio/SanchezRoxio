@@ -1,6 +1,5 @@
 
-<h2> Hey there! I'm Rocio. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<h2> Hey there! I'm Rocio.<img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif"/></h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -36,7 +35,6 @@
 </p>
 
 
-⭐️
 ![gif1](https://github.com/user-attachments/assets/432413de-99ef-4594-bdb1-4a80607f778b)
 <!---
 SanchezRoxio/SanchezRoxio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
