@@ -1,7 +1,5 @@
 
-<h2> Hey there! I'm Rocio.</h2> 
-
-![gif2](https://github.com/user-attachments/assets/287da9bb-11b9-4234-8ae5-cf08c78de5a4)
+<h2> Hey there! I'm Rocio. <img src="https://github.com/user-attachments/assets/287da9bb-11b9-4234-8ae5-cf08c78de5a4/gif2.gif" width="25"> </h2> 
 
 <h3> 👨🏻‍💻 About Me </h3>
 
