@@ -18,7 +18,6 @@
 - 🖥 &nbsp; Illustrator | Photoshop
 - 🧮 &nbsp; Postman
 
-<br> <br>
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
@@ -27,7 +26,7 @@
 &nbsp; <a href="https://sanchezmaribel.ro@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-
+<br> <br>
 ![gif1](https://github.com/user-attachments/assets/432413de-99ef-4594-bdb1-4a80607f778b)
 <!---
 SanchezRoxio/SanchezRoxio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
