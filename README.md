@@ -1,6 +1,6 @@
 
 <h2> Hey there! I'm Rocio. </h2> 
-<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/287da9bb-11b9-4234-8ae5-cf08c78de5a4" width="500"/>
+<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/287da9bb-11b9-4234-8ae5-cf08c78de5a4" width="400" height="550"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -25,6 +25,8 @@
 &nbsp; <a href="https://www.linkedin.com/in/rocio-sanchez-859321271" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="https://sanchezmaribel.ro@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
+
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanchezRoxio&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=250&theme=catppuccin_latte#gh-light-mode-only" />
 
 <br> <br>
 ![gif1](https://github.com/user-attachments/assets/432413de-99ef-4594-bdb1-4a80607f778b)
